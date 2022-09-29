@@ -30,3 +30,4 @@ CDKTF,Assess,Tools,TRUE,"<p>Tool do 'owijania' HCL'a w inne języki programowani
 Infracost,Trial,Tools,FALSE,"<p>narzędzie wskazujące estymowany koszt infrastruktury stawianej przez terraform <a href=""https://www.infracost.io/""></p>"
 jc,Assess,Tools,TRUE,"<p>narzędzie zmieniające output w jsona, do łatwiejszej manipulacji tekstem<a href=""https://github.com/kellyjonbrazil/jc""></p>"
 Terraform Validator,Adopt,Tools,FALSE,"<p><a href=""https://cloud.google.com/docs/terraform/policy-validation""> wymuszanie odpowiednich polityk dotyczących gcp przed deploymentem</p>"
+Go,Adopt,languages-and-frameworks,PRAWDA,<p>Język do stosowania podczas implementacji Cloud Function</p>
